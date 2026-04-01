@@ -1,0 +1,154 @@
+body {
+    font-family: Arial,  sans-serif; /* Font family */
+    font-size: 22px; /* O tamanho da fonte principal<p></p> tag  */
+    background-color: #fff3fa; /* A cor do plano de fundo da página */
+    color: #333333; /* A cor do texto */
+}
+h1 {
+    color: #d32506; /* A cor do cabeçalho */
+    font-size: 50px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+h2 {
+    color: #333333; /* A cor do cabeçalho */
+    font-size: 45px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+h3 {
+    color: #333333; /* A cor do cabeçalho */
+    font-size: 45px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+h4 {
+    color: #d32506; /* A cor do cabeçalho */
+    font-size: 40px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+h5 {
+    color: #d32506; /* A cor do cabeçalho */
+    font-size: 40px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+h6 {
+    color: #d32506; /* A cor do cabeçalho */
+    font-size: 40px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+p1 {
+    color: #d32506; /* A cor do cabeçalho */
+    font-size: 44px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+p2 {
+    color: #d32506; /* A cor do cabeçalho */
+    font-size: 44px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+p3 {
+    color: #d32506; /* A cor do cabeçalho */
+    font-size: 44px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+p4 {
+    color: #d32506; /* A cor do cabeçalho */
+    font-size: 44px; /* A cor da fonte do cabeçalho */
+    font-family: Georgia, serif; /* A font usada no cabeçalho*/
+}
+
+
+
+
+.imagem3 {
+  width: 300px;
+  height: 350px;
+}
+.imagem {
+  width: 470px;
+  height: 495px;
+}
+.imagem2 {
+  width: 400px;
+  height: 495px;
+}
+.imagem4 {
+  width: 490px;
+  height: 390px;
+}
+.imagem5 {
+  width: 380px;
+  height: 390px;
+}
+.imagem6 {
+  width: 600px;
+  height: 390px;
+}
+
+
+.imagem11 {
+  width: 347px;
+  height: 375px;
+}
+.imagem12 {
+  width: 347px;
+  height: 375px;
+}
+.imagem13 {
+  width: 347px;
+  height: 375px;
+}
+
+
+.imagem15 {
+  width: 430px;
+  height: 440px;
+}
+
+
+.imagem17 {
+  width: 230px;
+  height: 430px;
+}
+.imagem18 {
+  width: 260px;
+  height: 430px;
+}
+.imagem19 {
+  width: 520px;
+  height: 430px;
+}
+.imagem20 {
+  width: 520px;
+  height: 430px;
+}
+.imagem21 {
+  width: 530px;
+  height: 430px;
+}
+.imagem22 {
+  width: 550px;
+  height: 430px;
+}
+.imagem23 {
+  width: 290px;
+  height: 430px;
+}
+.imagem24 {
+  width: 290px;
+  height: 430px;
+}
+.imagem25 {
+  width: 390px;
+  height: 430px;
+}
+.imagem26 {
+  width: 400px;
+  height: 420px;
+}
+.imagem27 {
+  width: 430px;
+  height: 400px;
+}
+.imagem28 {
+  width: 750px;
+  height: 375px;
+}
